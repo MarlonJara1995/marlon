@@ -1,0 +1,35 @@
+/* Estilos para el recuadro de información adicional */
+.info-box {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+/* Estilos para el contenedor de la imagen del mapa */
+.map-image img {
+    max-width: 100%;
+    height: auto;
+  }
+/* Estilos para la imagen del carrusel */
+
+.pulsar{
+    width: 700px; /* Ancho del contenedor */
+    height: 600px; /* Altura del contenedor */
+  }
+  .dominar{
+    width: 700px; /* Ancho del contenedor */
+    height: 600px; /* Altura del contenedor */
+
+  }
+  .platina{
+    width: 700px; /* Ancho del contenedor */
+    height: 600px; /* Altura del contenedor */
+  }
+  .card-img-top {
+    height: 200px; /* Altura deseada para las imágenes */
+    object-fit: cover; /* Para que todas las imágenes tengan el mismo tamaño y se ajusten correctamente */
+  }
+  .footer {
+    background-color: #f8f9fa; /* Cambia el color de fondo del pie de página si lo deseas */
+  }
+  
+  
